@@ -12,4 +12,4 @@ An end-to-end data analytics project examining retail transaction data to uncove
 - Python (Pandas, NumPy): Data cleaning, missing value handling, and exploratory data analysis.
 - Power BI: Interactive KPI cards, cross-filtering charts, and dynamic slicers.
 - ## 📸 Dashboard Preview
-![E-Commerce Sales Dashboard](dashboard_preview.png)
+![E-Commerce Sales Dashboard](dashboard_preview.png.png)
